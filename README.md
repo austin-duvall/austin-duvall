@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @austin-duvall
-- 👀 I’m interested in music, art, math, and race car driving
+- 👀 I’m interested in music, art, math, and (watching) race car driving
 - 🌱 I’m currently learning how to use React
 
 <!---
